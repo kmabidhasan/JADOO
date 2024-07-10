@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tpLbgKZ/20240627-214828.jpg" group-title="StreamFyBD", t.me/StreamFyBD
+https://fmrx.short.gy/Join@StreamFyBD/StreamFy_BD.m3u8
+
 #EXTINF:-1 tvg-logo="https://test-tan-iota-90.vercel.app/images/atn_bangla.jpg" group-title="JADOO TV", ATN BANGLA
 https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=tZUqe494nKz0HMepuHnckw&expires=1720836376&user=d477246e9e724f81a011b847457e71c4
 
