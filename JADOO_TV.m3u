@@ -118,3 +118,29 @@ https://edge01.iptv.digijadoo.net/live/zee_cinema_hd/playlist.m3u8?md5=MfNzqAuXJ
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_tv.png" group-title="JADOO TV", ZEE TV
 https://edge01.iptv.digijadoo.net/live/zee_tv/playlist.m3u8?md5=KW1pkLga7NxNe5x7O8-ndg&expires=1720839875&user=d477246e9e724f81a011b847457e71c4
+
+
+
+#EXTINF:-1 tvg-logo="https://test-tan-iota-90.vercel.app/images/star-jalsha-movies.jpg" group-title="BANGLA",Jalsha Movies HD
+http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8?token=2be3b471b82cd70d481ddcc9ceaa68e4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bN8xWbG/COLORSBANGLA.png" group-title="BANGLA",Colors Bangla
+http://homeip.biz/IN_ColorsBengali/index.m3u8?token=6d96f3839bbfa2d65e96450899054613
+
+#EXTINF:-1 tvg-logo="https://test-tan-iota-90.vercel.app/images/zae-bangla-cinema.jpg" group-title="BANGLA",Zee Bangla Cinema
+https://dai.google.com/ssai/event/MQ737atmSaWzYp63efXNTQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://test-tan-iota-90.vercel.app/images/zee-bangla.jpg" group-title="BANGLA",Zee Bangla
+http://humsab.xyz/IN_ZEBS/index.m3u8?token=ea4b2405ddb228058b47e6cc531a65e5
+
+#EXTINF:-1 tvg-logo="https://test-tan-iota-90.vercel.app/images/star-jalaha-hd.jpg" group-title="BANGLA",Star Jalsha
+http://humsab.xyz/IN_JALSHAS/index.m3u8?token=e20de5d404038a50e6d02972de86a9bf
+
+#EXTINF:-1 tvg-logo="https://test-tan-iota-90.vercel.app/images/star-jalaha-hd.jpg" group-title="BANGLA",Star Jalsha SD
+http://humsab.xyz/IN_STARJ/index.m3u8?token=2a6118c76d56d6c76fa0dd9138689ec0
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpRF9XnbwRNNRljVuj91KyAGnslLQ7W3JJQA&usqp=CAU" group-title="BANGLA",Khushboo Bangla
+http://idvd.multitvsolution.com/idvo/khushboo.m3u8
+
+#EXTINF:-1 tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_max.jpghttps://test-tan-iota-90.vercel.app/images/sony_max2.jpghttps://test-tan-iota-90.vercel.app/images/star-gold-select.jpghttps://test-tan-iota-90.vercel.app/images/star_gold.jpghttps://test-tan-iota-90.vercel.app/images/zee_cinemahd.jpg" group-title="INDIAINDIAINDIAINDIAINDIA",Sony MaxSony Max 2Star Gold SelectStar GoldZee Cinema
+https://dai.google.com/ssai/event/XUmyfp_MQk2H_cTDIvz6aA/master.m3u8
