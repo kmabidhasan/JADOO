@@ -1,1 +1,50 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://test-tan-iota-90.vercel.app/images/atn_bangla.jpg" group-title="JADOO TV", ATN BANGLA
+https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=tZUqe494nKz0HMepuHnckw&expires=1720836376&user=d477246e9e724f81a011b847457e71c4
 
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/9x_jalwa.png" group-title="JADOO TV", 9X JALWA
+https://edge01.iptv.digijadoo.net/live/9x_jalwa/playlist.m3u8?md5=vmGvsqOXsUezU-k4sYlpDA&expires=1720836490&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png" group-title="JADOO TV", ATN NEWS
+https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=NGEBk75cV_HsC60BJpI9GA&expires=1720836537&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ananda_tv.png" group-title="JADOO TV", ANANDA TV
+https://edge01.iptv.digijadoo.net/live/ananda_tv/playlist.m3u8?md5=bFd6fnkD4TmtrPHy8k5oNw&expires=1720836626&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/al_jazeera.png" group-title="JADOO TV", AL JAZEERA
+https://edge01.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8?md5=t7rcXXeWpXCMLSRxbFjf7Q&expires=1720836679&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/asian_tv.png" group-title="JADOO TV", ASIAN TV
+https://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=JzrB6f0P2tBNNvEZR8ea4Q&expires=1720836834&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_lifestyle.png" group-title="JADOO TV", BBC LIFESTYLE 
+https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/playlist.m3u8?md5=JCOl2x0cjXUXpuP7eV726A&expires=1720836881&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_world.png" group-title="JADOO TV", BBC WORLD
+https://edge01.iptv.digijadoo.net/live/bbc_world/playlist.m3u8?md5=r6TTFHNRNHNSYgfR7v1Spw&expires=1720836899&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png" group-title="JADOO TV", BTV WORLD
+https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=NgAqtv929Bkj55ZB-CGvJQ&expires=1720836950&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_tv.png" group-title="JADOO TV", BANGLA TV
+https://edge01.iptv.digijadoo.net/live/bangla_tv/playlist.m3u8?md5=Utp7U3XbTYjq8boaRJpTwQ&expires=1720836999&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_vision.png" group-title="JADOO TV", BANGLA VISION
+https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=N1Uso1nAYRTnk-mGRHPJOw&expires=1720837015&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bijoy_tv.png" group-title="JADOO TV", BIJOY TV
+https://edge01.iptv.digijadoo.net/live/bijoy_tv/playlist.m3u8?md5=IFZIoXfLPkiTcz_6GgBWxg&expires=1720837094&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/boishakhi_tv.png" group-title="JADOO TV", BOISHAKHI TV
+https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=A7gwvBHeIKtufsTHDmWHIQ&expires=1720837132&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/cgtn_news.png" group-title="JADOO TV", CGTN
+https://edge01.iptv.digijadoo.net/live/cgtn_news/playlist.m3u8?md5=zdjDfZy9EUqZBBAjgZ0Hrg&expires=1720837163&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/cnn.png" group-title="JADOO TV", CNN
+https://edge01.iptv.digijadoo.net/live/cnn/playlist.m3u8?md5=ddcB9To_C713wUOd-NxbyQ&expires=1720837197&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_24.png" group-title="JADOO TV", CHANNEL 24
+https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=k1CZgpN0zQg8qtXNduOeqg&expires=1720837227&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 tvg-logo="https://test-tan-iota-90.vercel.app/images/atn_bangla.jpg" group-title="JADOO TV",
