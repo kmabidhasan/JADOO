@@ -141,7 +141,7 @@ http://homeip.biz/IN_SNT2/index.m3u8?token=5b22dcb61ba9563f76618e068cf6a841
 http://homeip.biz/tenso3/index.m3u8?token=fa9f22ec5d99875a6cc1661d4158c8fa
 #EXTINF:-1 tvg-logo="https://test-tan-iota-90.vercel.app/images/sony_ten5.jpg" group-title="SPORTS",Sony Sports 5
 http://humsab.xyz/S_Ten5/index.m3u8?token=8d7cda4860a1575eaf09574a9e162172
-#EXTINF:-1 tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports1hd.jpghttps://test-tan-iota-90.vercel.app/images/star_sports1hindi.jpghttps://test-tan-iota-90.vercel.app/images/star_sports2.jpg" group-title="SPORTSSPORTSSPORTS",Star Sports 1 HDStar Sports 1 HindiStar Sports 2
+#EXTINF:-1 tvg-logo="https://test-tan-iota-90.vercel.app/images/star_sports1hd.jpghttps://test-tan-iota-90.vercel.app/images/star_sports1hindi.jpghttps://test-tan-iota-90.vercel.app/images/star_sports2.jpg" group-title="SPORTS",Star Sports 1 HDStar Sports 1 HindiStar Sports 2
 https://test-tan-iota-90.vercel.app/live/bdix/app/StarSports2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sgHh2Fp/Astro-Cricket.jpg" group-title="SPORTS",Astro Cricket HD
 https://test-tan-iota-90.vercel.app/live/bdix/app/ASPCRI.m3u8
@@ -154,8 +154,8 @@ http://homeip.biz/PK_PS/tracks-v1a1/mono.m3u8?token=596eab3d040001ab76f5155b4587
 #EXTINF:-1 tvg-logo="https://test-tan-iota-90.vercel.app/images/ptv_sports.jpg" group-title="SPORTS",Ptv Sports
 https://test-tan-iota-90.vercel.app/live/bdix/app/PtvSports.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YTfbaxj.pnghttps://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="KIDSSPORTS",Super Hungama tvSony Sports Ten 1
-http://opplex.tv:8080/live/nazrul763/77547647/167570.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YTfbaxj.pnghttps://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SPORTS",Super Hungama tvSony Sports Ten 1
+http://opplex.tv:8080/live/narul763/77547647/167570.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SPORTS",Sony Sports Ten 2
 http://opplex.tv:8080/live/nazrul763/77547647/109984.ts
 #EXTINF:-1http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=8982&deviceMac=00:1A:79:A5:D6:5B
